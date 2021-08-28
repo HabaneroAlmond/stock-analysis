@@ -101,7 +101,7 @@ In this refactored script we used arrays for the results allowing the script to 
         
     Next i
 ```
-The runtime for the original code and refactored code differed by almost 0.7 seconds. This is quite a signiciant boost in efficiency. 
+The runtime for the original code and refactored code differed by almost 0.7 seconds for the 2018 year. This is quite a signiciant boost in efficiency. 
 
 ![originalcoderuntime](https://user-images.githubusercontent.com/82848585/131199329-b638b1b3-4ff8-42c4-91d8-9a1ad5e3eaa9.png)![refactoredcoderuntime](https://user-images.githubusercontent.com/82848585/131199333-0c766353-4886-438e-8d18-860fc51cc550.png)
 
